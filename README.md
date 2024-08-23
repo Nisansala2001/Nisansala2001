@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nisansala2001
+- 👋 Hi, I’m Nisansala Rasanjali
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning at SLIIT
 
